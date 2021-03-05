@@ -13,6 +13,10 @@
 
 
  Comparing segmentation results between labelled and unlabelled image data which are taken from OCT. 
+ 
+![image](https://user-images.githubusercontent.com/57571696/110146799-0be14a80-7dec-11eb-8c45-22ceba78d45b.png)
+
+*Fig.4: Comparison* 
 
 # Motivation
 
