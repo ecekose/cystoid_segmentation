@@ -18,6 +18,11 @@
 
 *Fig.4: Comparison* 
 
+:green_heart: : True positives
+:blue_heart: : False negatives
+:heart: : False positives
+
+
 # Motivation
 
 Looking at Optical Coherence Tomography (OCT) images with bare eyes might not be sufficient always to diagnose diseases for doctors and radiologists. However, observing the variations of Cystoid Macular Edema (CME) before and after surgery plays a critical role in Ophthalmology. Finding labelled data may not be possible usually, that's why I've been trying to develop an algorithm without labelled data in this repository. This kind of software allows the clinical workers to treat optical disorders, save time and track changes accurately. 
