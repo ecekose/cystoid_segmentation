@@ -1,7 +1,7 @@
 # Cystoid Segmentation
-
-![ Cystoid Macula Edema (CME) [1] ](https://user-images.githubusercontent.com/57571696/110127905-396fc900-7dd7-11eb-9f53-95dd36f77502.png)
-
+| ![image](https://user-images.githubusercontent.com/57571696/110129188-b7809f80-7dd8-11eb-9b44-64c331b343ab.png)
+|:--:| 
+| *Cystoid Macula Edema (CME) [1]* |
 Comparing segmentation results between labelled and unlabelled image data which are taken from OCT.
 
 # Motivation
